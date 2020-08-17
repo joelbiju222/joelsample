@@ -1837,7 +1837,7 @@ ul.social_icon li {
 
 .inner_page .inner_page_header {
 
-    background: #1f1f1f;
+    background: #242121;
     padding: 40px 0;
 
 }
@@ -1846,8 +1846,9 @@ ul.social_icon li {
 
     color: #fff;
     margin: 0;
-    padding: 0;
-    font-size: 25px;
+	padding: 0;
+	text-align: center;
+    font-size: 30px;
     font-weight: 700;
     text-transform: uppercase;
 
